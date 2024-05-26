@@ -1,0 +1,10 @@
+Topics:
+Probability - Random Variables, Pdfs, Conditional Pdfs, Joint Pdfs, Gaussian Pdf
+Multivariate Gaussian Distribution - Basics, What is covariance ? How to interpret the multivariate gaussian ?
+Markov Random Fields ( Depends )
+Bayesian Statistics ( A bit only ) 
+K means clustering
+EM
+GMM
+HMRF
+Bias Field Correction
